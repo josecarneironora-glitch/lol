@@ -19704,7 +19704,7 @@
             "ar": "T",
             "au": "https://cdn2.unrealengine.com/seigzdgnpop9tfuc-512x512-59d9ffb46105.jpg",
             "ti": "SparksSong:sid_placeholder_546",
-            "qi": "{\"sid\":\"c726c7b1-1015-403f-aa3e-50d8b88c7c11\",\"pid\":\"7f7b0a72-7c10-471f-a0e5-81fc97cfdaec\",\"stereoId\":\"d149d351-40d2-4f9a-a16d-9b1ca6a7afa5\",\"instrumentalId\":\"7cd8a174-3830-45f0-b662-a5b65baecd08\",\"title\":\"ridethelightning\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":112.808}}",
+            "qi": "{\"sid\":\"b6a29d0f-5a9b-4586-99f5-05efbc9e79e3\",\"pid\":\"d39ee0ba-2d61-4cb7-bbd8-222f815e2567\",\"stereoId\":\"5ab25bd0-a485-4804-bb31-0412dfe56a8d\",\"instrumentalId\":\"57b1050a-27cc-44e8-b4da-d652631789c1\",\"title\":\"blackdiamond\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":99.2196}}",
             "ld": "https://cdn2.unrealengine.com/ridethelightning-6e86ed189055.lad",
             "jc": "3090-5189-9313",
             "sn": "throughthefireandflames",
