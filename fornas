@@ -3936,7 +3936,7 @@
     "allofme": {
         "_title": "allofme",
         "track": {
-            "tt": "All Of Me (Tiësto's Birthday Treatment Remix)",
+            "tt": "All Of Me (Ti\u00ebsto's Birthday Treatment Remix)",
             "ry": 2013,
             "nu": "2024-03-02T00:00:00.000Z",
             "dn": 253,
@@ -5518,7 +5518,7 @@
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
-            "an": "Blue Öyster Cult",
+            "an": "Blue \u00d6yster Cult",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/pxzj2cufnycowlt3-512x512-d2aa9b99008e.jpg",
             "ti": "SparksSong:sid_placeholder_20",
@@ -9019,7 +9019,7 @@
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
-            "an": "Måneskin",
+            "an": "M\u00e5neskin",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/d3ym101tq5lbgyti-512x512-b286cfa565bd.jpg",
             "ti": "SparksSong:sid_placeholder_212",
@@ -10073,7 +10073,7 @@
     "luxaeterna": {
         "_title": "luxaeterna",
         "track": {
-            "tt": "Lux Æterna",
+            "tt": "Lux \u00c6terna",
             "ry": 2023,
             "nu": "2024-06-28T00:00:00.000Z",
             "dn": 203,
@@ -10404,7 +10404,7 @@
     "dakiti": {
         "_title": "dakiti",
         "track": {
-            "tt": "DÁKITI",
+            "tt": "D\u00c1KITI",
             "ry": 2020,
             "nu": "2024-07-05T00:00:00.000Z",
             "dn": 207,
@@ -10877,7 +10877,7 @@
     "titimepregunto": {
         "_title": "titimepregunto",
         "track": {
-            "tt": "Tití Me Preguntó",
+            "tt": "Tit\u00ed Me Pregunt\u00f3",
             "mm": "Minor",
             "siv": "Vocals",
             "su": "65fc1c91-3968-48da-873c-47841905f691",
@@ -12694,7 +12694,7 @@
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
-            "an": "Karol G ft. Tiësto",
+            "an": "Karol G ft. Ti\u00ebsto",
             "ar": "T",
             "au": "https://cdn2.unrealengine.com/kfzepityukk6hjco-512x512-a3b247281c40.jpg",
             "ti": "SparksSong:sid_placeholder_276",
@@ -13731,7 +13731,7 @@
             "dn": 167,
             "isrc": "CYA112000624",
             "sib": "Bass",
-            "an": "Tiësto",
+            "an": "Ti\u00ebsto",
             "sid": "Drum",
             "sig": "Keyboard",
             "ar": "E",
@@ -18213,7 +18213,7 @@
     "magicalcureloveshot": {
         "_title": "magicalcureloveshot",
         "track": {
-            "tt": "M@GICAL☆CURE! LOVE SHOT!",
+            "tt": "M@GICAL\u2606CURE! LOVE SHOT!",
             "mm": "Major",
             "siv": "Vocals",
             "su": "9d66088e-eea9-41f1-a44a-84b9e5370f8c",
@@ -18371,7 +18371,7 @@
             "dn": 227,
             "isrc": "USSM17600007",
             "sib": "Bass",
-            "an": "Blue Öyster Cult",
+            "an": "Blue \u00d6yster Cult",
             "sid": "Drum",
             "sig": "Guitar",
             "ar": "E",
@@ -19675,40 +19675,40 @@
     "throughthefireandflames": {
         "_title": "throughthefireandflames",
         "track": {
-            "tt": "Through the Fire and Flamesa",
+            "tt": "Black Diamond",
             "mm": "Minor",
             "siv": "Vocals",
-            "su": "fefd057e-ebe2-4909-ba35-1752d86b6b17",
+            "su": "eb5cef66-65b0-4b27-bd22-b431e40ae0e7",
             "in": {
                 "bd": 3,
-                "pb": 5,
+                "pb": 6,
                 "pd": 6,
                 "vl": 2,
                 "pg": 6,
                 "_type": "SparkTrackIntensities",
                 "gr": 6,
                 "ds": 6,
-                "ba": 5
+                "ba": 6
             },
-            "ry": 2005,
-            "nu": "2025-03-21T00:00:00.000Z",
-            "mt": 100,
+            "ry": 1997,
+            "nu": "2026-01-01T00:00:00.000Z",
+            "mt": 150,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/x9i8kiabchfbzxqk-d305ef9ad086.dat",
-            "dn": 442,
-            "isrc": "GBAJE0508258",
+            "mu": "https://cdn2.unrealengine.com/720hsnnuqqjiyywx-19cd80d362ea.dat",
+            "dn": 338,
+            "isrc": "DEA249700002",
             "sib": "Bass",
-            "an": "DragonForce",
+            "an": "Stratovarius",
             "sid": "Drum",
-            "sig": "Guitar",
-            "ar": "T",
-            "au": "https://cdn2.unrealengine.com/seigzdgnpop9tfuc-512x512-59d9ffb46105.jpg",
-            "ti": "SparksSong:sid_placeholder_546",
+            "sig": "Keyboard",
+            "ar": "E",
+            "au": "https://cdn2.unrealengine.com/8cnw1g6fbkyzbebq-512x512-4a51b592ce12.jpg",
+            "ti": "SparksSong:sid_placeholder_727",
             "qi": "{\"sid\":\"b6a29d0f-5a9b-4586-99f5-05efbc9e79e3\",\"pid\":\"d39ee0ba-2d61-4cb7-bbd8-222f815e2567\",\"stereoId\":\"5ab25bd0-a485-4804-bb31-0412dfe56a8d\",\"instrumentalId\":\"57b1050a-27cc-44e8-b4da-d652631789c1\",\"title\":\"blackdiamond\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":99.2196}}",
-            "ld": "https://cdn2.unrealengine.com/ridethelightning-6e86ed189055.lad",
-            "jc": "3090-5189-9313",
-            "sn": "throughthefireandflames",
-            "mk": "C"
+            "ld": "https://cdn2.unrealengine.com/blackdiamond-f7ab6403463c.lad",
+            "jc": "6509-0313-3693",
+            "sn": "blackdiamond",
+            "mk": "Db"
         },
         "_noIndex": false,
         "_activeDate": "2025-03-16T08:00:00.000Z",
@@ -20660,7 +20660,7 @@
             "dn": 254,
             "isrc": "USAT22100694",
             "sib": "Bass",
-            "an": "The Marías",
+            "an": "The Mar\u00edas",
             "sid": "Drum",
             "sig": "Guitar",
             "ar": "E",
@@ -22374,7 +22374,7 @@
             "dn": 172,
             "isrc": "USAT22409184",
             "sib": "Bass",
-            "an": "ROSÉ, Bruno Mars",
+            "an": "ROS\u00c9, Bruno Mars",
             "sid": "Drum",
             "sig": "Guitar",
             "ar": "T",
@@ -22526,7 +22526,7 @@
     "bondedobrunao": {
         "_title": "bondedobrunao",
         "track": {
-            "tt": "Bonde Do Brunão",
+            "tt": "Bonde Do Brun\u00e3o",
             "mm": "Minor",
             "siv": "Vocals",
             "su": "57ac2371-175e-4603-a14f-3c241b78ac40",
@@ -26216,7 +26216,7 @@
             "mu": "https://cdn2.unrealengine.com/tvvzmo4rgthlinpz-b3c8916c2bf2.dat",
             "dn": 179,
             "sib": "Bass",
-            "an": "LISA ft. ROSALÍA",
+            "an": "LISA ft. ROSAL\u00cdA",
             "sid": "Drum",
             "sig": "Keyboard",
             "ar": "E",
@@ -26696,7 +26696,7 @@
             "dn": 238,
             "isrc": "USAT22307579",
             "sib": "Bass",
-            "an": "The Marías",
+            "an": "The Mar\u00edas",
             "sid": "Drum",
             "sig": "Guitar",
             "ar": "E",
@@ -26760,7 +26760,7 @@
     "snowmix": {
         "_title": "snowmix",
         "track": {
-            "tt": "SnowMix♪",
+            "tt": "SnowMix\u266a",
             "mm": "Major",
             "siv": "Vocals",
             "su": "8137197f-44db-4ad7-bf4b-b7a55f2821e5",
