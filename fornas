@@ -2,7 +2,7 @@
     "_title": "spark-tracks",
     "_noIndex": false,
     "_activeDate": "2023-10-06T04:15:09.015Z",
-    "lastModified": "2025-12-30T15:25:00.638Z",
+    "lastModified": "2026-01-06T18:28:43.529Z",
     "_locale": "en-US",
     "_templateName": "blank",
     "butterbarnhoedown": {
@@ -651,6 +651,7 @@
             "siv": "Vocals",
             "su": "60de5a55-5c66-4f17-9f00-525e20d929cf",
             "in": {
+                "bd": 4,
                 "pb": 0,
                 "pd": 3,
                 "vl": 1,
@@ -662,12 +663,12 @@
             },
             "mt": 80,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/a5mx0vsynetkc1pt-c27efe7a8c2e.dat",
+            "mu": "https://cdn2.unrealengine.com/kufhrxjstvonjvjv-aced20a11248.dat",
             "isrc": "GB2LD1800949",
-            "an": "Sub Urban",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "Sub Urban",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/1slpnaremhahk2lv-512x512-093c5f98d881.jpg",
             "ti": "SparksSong:sid_placeholder_29",
@@ -676,7 +677,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:07:31.006Z",
+        "lastModified": "2026-01-06T15:59:43.998Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -1080,6 +1081,7 @@
             "siv": "Vocals",
             "su": "5b393f6f-bb8a-48a1-a0f0-d49f6afaef4c",
             "in": {
+                "bd": 2,
                 "pb": 3,
                 "pd": 4,
                 "vl": 3,
@@ -1091,12 +1093,12 @@
             },
             "mt": 148,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/h8qfmn6wovn6spau-22bfc69758f9.dat",
+            "mu": "https://cdn2.unrealengine.com/4wihk7rdcoudmkp9-7cd9769fd008.dat",
             "isrc": "USIR20400274",
-            "an": "The Killers",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "The Killers",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/fsncprpk4rtykrbs-512x512-4fd7561b257c.jpg",
             "ti": "SparksSong:sid_placeholder_16",
@@ -1105,7 +1107,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2023-12-18T00:00:00.000Z",
-        "lastModified": "2024-09-14T00:38:40.635Z",
+        "lastModified": "2025-12-19T15:45:21.650Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -2053,6 +2055,7 @@
             "siv": "Vocals",
             "su": "78929160-dd59-4436-9676-439eba20f5cd",
             "in": {
+                "bd": 4,
                 "pb": 1,
                 "pd": 3,
                 "vl": 3,
@@ -2064,12 +2067,12 @@
             },
             "mt": 156,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/vp7obittayv5opft-1534be0cc623.dat",
+            "mu": "https://cdn2.unrealengine.com/n6xsi2flydvoxrau-cb1c4c65cd82.dat",
             "isrc": "USCH38400033",
-            "an": "Pat Benatar",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "Pat Benatar",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/kxh5db73ifalfrcj-512x512-e0ab894df412.jpg",
             "ti": "SparksSong:sid_placeholder_83",
@@ -2078,7 +2081,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:44:25.379Z",
+        "lastModified": "2026-01-06T18:25:55.334Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -2217,7 +2220,7 @@
             },
             "mt": 81,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/eforoldnk9xw4wxe-6b4364f37c1e.dat",
+            "mu": "https://cdn2.unrealengine.com/uscac2tsndemupud-fd0644747a1e.dat",
             "isrc": "GBUM72000433",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat",
@@ -2232,7 +2235,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-02-22T09:00:00.000Z",
-        "lastModified": "2025-12-16T18:46:45.785Z",
+        "lastModified": "2026-01-06T18:28:43.529Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -2301,6 +2304,7 @@
             "siv": "Vocals",
             "su": "543393a2-9e08-433a-b8a7-702265de9b83",
             "in": {
+                "bd": 1,
                 "pb": 1,
                 "pd": 4,
                 "vl": 2,
@@ -2312,12 +2316,12 @@
             },
             "mt": 101,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/voatm0bpsgguaub4-9b2edad52484.dat",
+            "mu": "https://cdn2.unrealengine.com/uoa8iaptqogzv0ey-5461eac69268.dat",
             "isrc": "GBAAN8790002",
-            "an": "U2",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "U2",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/1lnpxjbzkozanhyh-512x512-c6d6579c436c.jpg",
             "ti": "SparksSong:sid_placeholder_117",
@@ -2326,7 +2330,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:53:06.676Z",
+        "lastModified": "2026-01-06T16:15:08.785Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -2731,6 +2735,7 @@
             "siv": "Vocals",
             "su": "8ef76606-767a-40fb-903a-460d8544e322",
             "in": {
+                "bd": 2,
                 "pb": 4,
                 "pd": 4,
                 "vl": 2,
@@ -2742,12 +2747,12 @@
             },
             "mt": 175,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/fw0yijvnoyptk1ou-e1b8e59fde18.dat",
+            "mu": "https://cdn2.unrealengine.com/g0hayx4t7ioyf1gx-7de29a9c5819.dat",
             "isrc": "USRE19900151",
-            "an": "Green Day",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "Green Day",
             "ar": "T",
             "au": "https://cdn2.unrealengine.com/hxgcbghz24dib61d-512x512-241ddf669e80.jpg",
             "ti": "SparksSong:sid_placeholder_120",
@@ -2756,7 +2761,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T18:46:06.514Z",
+        "lastModified": "2025-12-19T15:43:42.884Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -3936,7 +3941,7 @@
     "allofme": {
         "_title": "allofme",
         "track": {
-            "tt": "All Of Me (Ti\u00ebsto's Birthday Treatment Remix)",
+            "tt": "All Of Me (Tiësto's Birthday Treatment Remix)",
             "ry": 2013,
             "nu": "2024-03-02T00:00:00.000Z",
             "dn": 253,
@@ -4333,6 +4338,7 @@
             "siv": "Vocals",
             "su": "957d3a97-47d9-4afe-afa8-73b88db294df",
             "in": {
+                "bd": 1,
                 "pb": 0,
                 "pd": 1,
                 "vl": 4,
@@ -4344,12 +4350,12 @@
             },
             "mt": 106,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/sxckbhk2jypbgnui-3b3c2f8bf50f.dat",
+            "mu": "https://cdn2.unrealengine.com/w19whyemxvlaxftz-95ed477e1896.dat",
             "isrc": "USRC12102634",
-            "an": "Latto",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "Latto",
             "ar": "T",
             "au": "https://cdn2.unrealengine.com/ui18vmajfpzk76df-512x512-73668ca9a366.jpg",
             "ti": "SparksSong:sid_placeholder_132",
@@ -4358,7 +4364,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-01-10T18:53:33.178Z",
-        "lastModified": "2024-09-18T06:34:41.993Z",
+        "lastModified": "2026-01-06T18:24:19.226Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -4379,6 +4385,7 @@
             "siv": "Vocals",
             "su": "bde15bc8-3aeb-49c9-b5f0-d3ab8b239e66",
             "in": {
+                "bd": 0,
                 "pb": 0,
                 "pd": 3,
                 "vl": 5,
@@ -4390,12 +4397,12 @@
             },
             "mt": 145,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/jypomuebhqhlwboi-2fa79578d0bd.dat",
+            "mu": "https://cdn2.unrealengine.com/2dsl5pkk36mf0uzz-4398e3910e2b.dat",
             "isrc": "USAT22007728",
-            "an": "Jack Harlow",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "Jack Harlow",
             "ar": "T",
             "au": "https://cdn2.unrealengine.com/jzen7cin8nzqvmaw-512x512-2f6ada751920.jpg",
             "ti": "SparksSong:sid_placeholder_157",
@@ -4404,7 +4411,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-01-29T16:53:04.032Z",
-        "lastModified": "2024-09-18T07:02:47.432Z",
+        "lastModified": "2026-01-06T16:20:55.678Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -5022,14 +5029,14 @@
             "nu": "2024-03-22T00:00:00.000Z",
             "mt": 136,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/hw2yeamkjgs9clyh-111cf78fe69a.dat",
+            "mu": "https://cdn2.unrealengine.com/rglww5ov3vvmwv1t-1e4405c9747a.dat",
             "dn": 227,
             "isrc": "FIHDQ2300029",
             "sib": "Bass",
-            "an": "Darude",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "Darude",
             "sid": "Drum",
             "sig": "Keyboard",
             "ar": "E",
@@ -5042,7 +5049,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2023-12-13T19:18:08.908Z",
-        "lastModified": "2025-04-24T14:49:31.594Z",
+        "lastModified": "2025-12-19T17:57:16.727Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -5110,6 +5117,7 @@
             "siv": "Vocals",
             "su": "4d1e1e96-d397-4043-943b-48af823080dc",
             "in": {
+                "bd": 3,
                 "pb": 1,
                 "pd": 2,
                 "vl": 2,
@@ -5121,12 +5129,12 @@
             },
             "mt": 124,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/3ubvqishcm1uznhb-f787908f248d.dat",
+            "mu": "https://cdn2.unrealengine.com/cuxmpxc2bnumy5lw-4acd48c40579.dat",
             "isrc": "USCA21001262",
-            "an": "Katy Perry",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "Katy Perry",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/aiyaomdhfpbz91ac-512x512-69671635c336.jpg",
             "ti": "SparksSong:sid_placeholder_143",
@@ -5135,7 +5143,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-01-22T15:49:25.511Z",
-        "lastModified": "2024-09-18T07:16:54.163Z",
+        "lastModified": "2025-12-19T15:33:43.764Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -5518,7 +5526,7 @@
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
-            "an": "Blue \u00d6yster Cult",
+            "an": "Blue Öyster Cult",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/pxzj2cufnycowlt3-512x512-d2aa9b99008e.jpg",
             "ti": "SparksSong:sid_placeholder_20",
@@ -6823,6 +6831,7 @@
             "siv": "Vocals",
             "su": "e34af1cc-2170-4da9-ac41-16fbb7ac3d94",
             "in": {
+                "bd": 2,
                 "pb": 2,
                 "pd": 4,
                 "vl": 2,
@@ -6834,12 +6843,12 @@
             },
             "mt": 108,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/gyw7gayf96pbekwu-0f0253994aec.dat",
+            "mu": "https://cdn2.unrealengine.com/l1w2hgtnzmbjogoj-fbe7bcf18d57.dat",
             "isrc": "USIR19500272",
-            "an": "No Doubt",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "No Doubt",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/itpeltcq2wihibfk-512x512-feb3b9688b30.jpg",
             "ti": "SparksSong:sid_placeholder_192",
@@ -6848,7 +6857,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-03-20T13:57:06.615Z",
-        "lastModified": "2024-09-19T02:14:47.286Z",
+        "lastModified": "2026-01-06T17:31:52.114Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -7863,6 +7872,7 @@
             "siv": "Vocals",
             "su": "bd8c3280-ed27-4be7-98ee-442a80a334ce",
             "in": {
+                "bd": 2,
                 "pb": 4,
                 "pd": 3,
                 "vl": 2,
@@ -7874,12 +7884,12 @@
             },
             "mt": 158,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/ytuepmb0u1tsb1j9-0ded7c65f483.dat",
+            "mu": "https://cdn2.unrealengine.com/c10di2pfawcvkkfq-a8a1d9deba94.dat",
             "isrc": "USGF19942504",
-            "an": "Nirvana",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "Nirvana",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/pvnoyyapku7aau1a-512x512-69c9fb5a174f.jpg",
             "ti": "SparksSong:sid_placeholder_201",
@@ -7888,7 +7898,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T18:53:16.931Z",
+        "lastModified": "2026-01-06T17:33:25.773Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -9019,7 +9029,7 @@
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
-            "an": "M\u00e5neskin",
+            "an": "Måneskin",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/d3ym101tq5lbgyti-512x512-b286cfa565bd.jpg",
             "ti": "SparksSong:sid_placeholder_212",
@@ -9620,6 +9630,7 @@
             "siv": "Vocals",
             "su": "53a0a7df-e2a8-4db1-8f75-8f857932f900",
             "in": {
+                "bd": 3,
                 "pb": 4,
                 "pd": 5,
                 "vl": 4,
@@ -9631,7 +9642,7 @@
             },
             "mt": 125,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/idknrdnsaomeqevb-bcf96cd44117.dat",
+            "mu": "https://cdn2.unrealengine.com/v3c6y6nkbcr9qytu-53eb86a22c90.dat",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
@@ -9644,7 +9655,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-11-12T21:29:13.837Z",
+        "lastModified": "2026-01-06T16:01:42.279Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -10073,7 +10084,7 @@
     "luxaeterna": {
         "_title": "luxaeterna",
         "track": {
-            "tt": "Lux \u00c6terna",
+            "tt": "Lux Æterna",
             "ry": 2023,
             "nu": "2024-06-28T00:00:00.000Z",
             "dn": 203,
@@ -10404,7 +10415,7 @@
     "dakiti": {
         "_title": "dakiti",
         "track": {
-            "tt": "D\u00c1KITI",
+            "tt": "DÁKITI",
             "ry": 2020,
             "nu": "2024-07-05T00:00:00.000Z",
             "dn": 207,
@@ -10705,6 +10716,7 @@
             "siv": "Vocals",
             "su": "90272563-7be2-4b84-9d8e-c932a49e6b73",
             "in": {
+                "bd": 4,
                 "pb": 3,
                 "pd": 1,
                 "vl": 4,
@@ -10716,7 +10728,7 @@
             },
             "mt": 114,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/fncmdh63vdgl68mu-b6890d23937e.dat",
+            "mu": "https://cdn2.unrealengine.com/lfjdsextdcorxysq-06c177afc710.dat",
             "isrc": "QM7282022872",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
@@ -10730,7 +10742,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-08-16T05:00:00.000Z",
-        "lastModified": "2025-09-25T17:55:34.422Z",
+        "lastModified": "2026-01-06T16:12:41.981Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -10877,7 +10889,7 @@
     "titimepregunto": {
         "_title": "titimepregunto",
         "track": {
-            "tt": "Tit\u00ed Me Pregunt\u00f3",
+            "tt": "Tití Me Preguntó",
             "mm": "Minor",
             "siv": "Vocals",
             "su": "65fc1c91-3968-48da-873c-47841905f691",
@@ -12032,6 +12044,7 @@
             "siv": "Vocals",
             "su": "b626bcc5-0707-406a-9850-5d8b5caf5318",
             "in": {
+                "bd": 3,
                 "pb": 1,
                 "pd": 5,
                 "vl": 2,
@@ -12045,10 +12058,11 @@
             "nu": "2024-08-23T00:00:00.000Z",
             "mt": 98,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/ecbtcfag9ck6sy9u-a7fe15fcfe5f.dat",
+            "mu": "https://cdn2.unrealengine.com/6vtuuyaj3wloenho-dd118d14f18e.dat",
             "dn": 225,
             "sib": "Bass",
             "an": "Epic Games",
+            "mmo": 33,
             "sid": "Drum",
             "sig": "Keyboard",
             "ar": "E",
@@ -12062,7 +12076,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-08-16T05:00:00.000Z",
-        "lastModified": "2024-09-23T06:26:52.135Z",
+        "lastModified": "2026-01-06T16:18:42.914Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -12630,6 +12644,7 @@
             "siv": "Vocals",
             "su": "185c107c-5e3a-42ba-9b0c-dd321fec1fee",
             "in": {
+                "bd": 4,
                 "pb": 2,
                 "pd": 1,
                 "vl": 3,
@@ -12641,12 +12656,12 @@
             },
             "mt": 104,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/xcmvpgzacclmuwqx-aba284c7d09c.dat",
+            "mu": "https://cdn2.unrealengine.com/wirpjq9po7eclnvu-67cc63a153e7.dat",
             "isrc": "USUM72404979",
-            "an": "Sabrina Carpenter",
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
+            "an": "Sabrina Carpenter",
             "ar": "E",
             "au": "https://cdn2.unrealengine.com/kvwe2rkqkec4jkof-512x512-8f64501dcc8f.jpg",
             "ti": "SparksSong:sid_placeholder_307",
@@ -12655,7 +12670,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-08-22T13:30:00.000Z",
-        "lastModified": "2024-09-23T06:15:29.302Z",
+        "lastModified": "2025-12-19T15:40:13.973Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -12694,7 +12709,7 @@
             "gt": [
                 "Jam-LoopIsUnpitched-Beat"
             ],
-            "an": "Karol G ft. Ti\u00ebsto",
+            "an": "Karol G ft. Tiësto",
             "ar": "T",
             "au": "https://cdn2.unrealengine.com/kfzepityukk6hjco-512x512-a3b247281c40.jpg",
             "ti": "SparksSong:sid_placeholder_276",
@@ -13731,7 +13746,7 @@
             "dn": 167,
             "isrc": "CYA112000624",
             "sib": "Bass",
-            "an": "Ti\u00ebsto",
+            "an": "Tiësto",
             "sid": "Drum",
             "sig": "Keyboard",
             "ar": "E",
@@ -15704,6 +15719,7 @@
             "siv": "Vocals",
             "su": "f4f06137-ca47-44d2-aace-cef4ea357326",
             "in": {
+                "bd": 0,
                 "pb": 1,
                 "pd": 1,
                 "vl": 5,
@@ -15717,7 +15733,7 @@
             "nu": "2024-11-22T01:00:00.000Z",
             "mt": 95,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/w6f7ozxebwvvjhre-abbbf25f79a4.dat",
+            "mu": "https://cdn2.unrealengine.com/h6om2xv5dsrahisy-2337bfe8c1b0.dat",
             "dn": 252,
             "isrc": "USUR10400289",
             "sib": "Bass",
@@ -15735,7 +15751,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-11-14T14:30:00.000Z",
-        "lastModified": "2024-11-13T19:48:20.441Z",
+        "lastModified": "2025-12-19T15:41:43.033Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -16415,6 +16431,7 @@
             "siv": "Vocals",
             "su": "9fc91f93-27cd-4b73-b8c0-5be100af089d",
             "in": {
+                "bd": 5,
                 "pb": 4,
                 "pd": 4,
                 "vl": 5,
@@ -16428,7 +16445,7 @@
             "nu": "2024-12-13T00:00:00.000Z",
             "mt": 155,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/8xrprxcxnj61ccpw-a61a0d2bce11.dat",
+            "mu": "https://cdn2.unrealengine.com/wimumntakzhbhjb2-8c72b88c4d49.dat",
             "dn": 215,
             "sib": "Bass",
             "an": "Epic Games",
@@ -16445,7 +16462,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-12-01T03:00:00.000Z",
-        "lastModified": "2025-05-22T17:39:45.540Z",
+        "lastModified": "2026-01-06T15:54:57.073Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -16590,6 +16607,7 @@
             "siv": "Vocals",
             "su": "367af353-3163-417d-9a9c-1e0fa3d23e41",
             "in": {
+                "bd": 4,
                 "pb": 2,
                 "pd": 3,
                 "vl": 2,
@@ -16603,7 +16621,7 @@
             "nu": "2024-12-13T00:00:00.000Z",
             "mt": 117,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/ripp7sp4avlwd5ik-1a5e03d1d24c.dat",
+            "mu": "https://cdn2.unrealengine.com/5iwteqmmcs7xvdgp-e5261a9fd89d.dat",
             "dn": 214,
             "isrc": "JPPO02202918",
             "sib": "Bass",
@@ -16621,7 +16639,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-12-05T14:30:00.000Z",
-        "lastModified": "2024-12-03T20:19:38.303Z",
+        "lastModified": "2026-01-06T16:16:50.634Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -17034,6 +17052,7 @@
             "siv": "Vocals",
             "su": "9e06542d-908e-436a-8c03-0c6afef4e869",
             "in": {
+                "bd": 3,
                 "pb": 2,
                 "pd": 3,
                 "vl": 3,
@@ -17047,7 +17066,7 @@
             "nu": "2024-12-27T00:00:00.000Z",
             "mt": 144,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/rpldnro8ylu6vtfj-46e8b6636569.dat",
+            "mu": "https://cdn2.unrealengine.com/upz1zmn9po6lux7b-04d05a17717c.dat",
             "dn": 187,
             "sib": "Bass",
             "an": "Epic Games",
@@ -17064,7 +17083,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2024-12-20T19:59:00.000Z",
-        "lastModified": "2024-12-17T18:19:01.085Z",
+        "lastModified": "2026-01-06T18:27:34.052Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -18213,7 +18232,7 @@
     "magicalcureloveshot": {
         "_title": "magicalcureloveshot",
         "track": {
-            "tt": "M@GICAL\u2606CURE! LOVE SHOT!",
+            "tt": "M@GICAL☆CURE! LOVE SHOT!",
             "mm": "Major",
             "siv": "Vocals",
             "su": "9d66088e-eea9-41f1-a44a-84b9e5370f8c",
@@ -18371,7 +18390,7 @@
             "dn": 227,
             "isrc": "USSM17600007",
             "sib": "Bass",
-            "an": "Blue \u00d6yster Cult",
+            "an": "Blue Öyster Cult",
             "sid": "Drum",
             "sig": "Guitar",
             "ar": "E",
@@ -18802,6 +18821,7 @@
             "siv": "Vocals",
             "su": "9165a7e7-0ff2-41aa-be1d-e3da871f3c0e",
             "in": {
+                "bd": 6,
                 "pb": 5,
                 "pd": 3,
                 "vl": 5,
@@ -18815,7 +18835,7 @@
             "nu": "2025-02-14T00:00:00.000Z",
             "mt": 130,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/mlfbujm48fwgnnlt-1a51fe88e2de.dat",
+            "mu": "https://cdn2.unrealengine.com/vvohkbhzj2whhbog-a1bc84125dcf.dat",
             "dn": 262,
             "isrc": "JPP301900716",
             "sib": "Bass",
@@ -18833,7 +18853,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2025-02-06T14:30:00.000Z",
-        "lastModified": "2025-02-04T21:02:34.945Z",
+        "lastModified": "2025-12-19T15:47:00.924Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -19574,7 +19594,7 @@
             "qi": "{\"sid\":\"e8dd867f-f190-4f85-8c49-dff9bfe8053c\",\"pid\":\"936589f3-cf87-4875-bd01-ec8b3a3b2d94\",\"stereoId\":\"61731687-02f2-4587-9ac5-fa9649f8ff05\",\"instrumentalId\":\"060e28c9-6f55-4718-ac4e-2a989cbd0364\",\"title\":\"xxxbuilttogether\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":30.2419}}",
             "ld": "https://cdn2.unrealengine.com/builttogether-1e19fcc9f710.lad",
             "jc": "4244-3675-3778",
-            "sn": "",
+            "sn": "builttogether",
             "mk": "Db"
         },
         "_noIndex": false,
@@ -19638,7 +19658,7 @@
             "sid": "Drum",
             "sig": "Keyboard",
             "qi": "{\"sid\":\"79b43eab-bf32-4d31-95d0-f9ba4d028255\",\"pid\":\"04d9c6ec-8b38-4ab3-9419-3012a58b5490\",\"stereoId\":\"8f90d2fa-9e91-44db-a7e4-848725fce2c2\",\"instrumentalId\":\"dd32607f-93d2-4570-aa11-a3d4a2dfcf0b\",\"title\":\"melt\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":63.4853}}",
-            "sn": "",
+            "sn": "melt",
             "mk": "D",
             "mm": "Major",
             "siv": "Vocals",
@@ -19672,8 +19692,8 @@
         "_locale": "en-US",
         "_templateName": "track"
     },
-    "": {
-        "_title": "",
+    "throughthefireandflames": {
+        "_title": "throughthefireandflames",
         "track": {
             "tt": "Through the Fire and Flames",
             "mm": "Minor",
@@ -19694,7 +19714,7 @@
             "nu": "2025-03-21T00:00:00.000Z",
             "mt": 100,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/720hsnnuqqjiyywx-19cd80d362ea.dat",
+            "mu": "https://cdn2.unrealengine.com/xidp7ipts2ewvjzd-3132d70a8cd5.dat",
             "dn": 442,
             "isrc": "GBAJE0508258",
             "sib": "Bass",
@@ -19704,7 +19724,7 @@
             "ar": "T",
             "au": "https://cdn2.unrealengine.com/seigzdgnpop9tfuc-512x512-59d9ffb46105.jpg",
             "ti": "SparksSong:sid_placeholder_546",
-            "qi": "{\"sid\":\"b6a29d0f-5a9b-4586-99f5-05efbc9e79e3\",\"pid\":\"d39ee0ba-2d61-4cb7-bbd8-222f815e2567\",\"stereoId\":\"5ab25bd0-a485-4804-bb31-0412dfe56a8d\",\"instrumentalId\":\"57b1050a-27cc-44e8-b4da-d652631789c1\",\"title\":\"blackdiamond\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":99.2196}}",
+            "qi": "{\"sid\":\"8b6765cb-6483-4105-bd8c-57f862ab7df6\",\"pid\":\"b569ad5b-b1b0-41e9-8d83-2238ea4c6725\",\"stereoId\":\"664e7a65-c802-470b-b342-e2f78a70d19d\",\"instrumentalId\":\"73a5b72d-ba30-4475-bfd4-72a071780e69\",\"title\":\"throughthefireandflames\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":185.091}}",
             "ld": "https://cdn2.unrealengine.com/throughthefireandflames-26a31913a992.lad",
             "jc": "3090-5189-9313",
             "sn": "",
@@ -20336,6 +20356,7 @@
             "siv": "Vocals",
             "su": "f960ca7f-4f08-406c-bbfb-c3b60ce0e585",
             "in": {
+                "bd": 6,
                 "pb": 3,
                 "pd": 4,
                 "vl": 3,
@@ -20349,7 +20370,7 @@
             "nu": "2025-04-18T00:00:00.000Z",
             "mt": 105,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/thqdmc2jnhb4wguk-5b5bc109b701.dat",
+            "mu": "https://cdn2.unrealengine.com/ss9gc2phdyacywuj-9b23623c06e3.dat",
             "dn": 252,
             "isrc": "USMV29900091",
             "sib": "Bass",
@@ -20367,7 +20388,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2025-04-08T08:00:00.000Z",
-        "lastModified": "2025-04-11T20:26:24.541Z",
+        "lastModified": "2026-01-06T17:40:53.271Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -20612,7 +20633,7 @@
             "nu": "2025-04-18T00:00:00.000Z",
             "mt": 125,
             "_type": "SparkTrack",
-            "mu": "https://cdn2.unrealengine.com/dg9ihjif0af7znhm-eb8d7a0c2bbd.dat",
+            "mu": "https://cdn2.unrealengine.com/pbbt1ww8ipzrarsu-fc79a7a300a7.dat",
             "dn": 204,
             "isrc": "AU2DY2400085",
             "sib": "Bass",
@@ -20630,7 +20651,7 @@
         },
         "_noIndex": false,
         "_activeDate": "2025-04-10T14:59:00.000Z",
-        "lastModified": "2025-06-24T14:09:10.611Z",
+        "lastModified": "2026-01-06T17:42:23.643Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
@@ -20660,7 +20681,7 @@
             "dn": 254,
             "isrc": "USAT22100694",
             "sib": "Bass",
-            "an": "The Mar\u00edas",
+            "an": "The Marías",
             "sid": "Drum",
             "sig": "Guitar",
             "ar": "E",
@@ -21417,7 +21438,7 @@
             "qi": "{\"sid\":\"702c9baf-cb07-40fa-b060-05f045d83675\",\"pid\":\"71197ef5-499d-4c00-aaa7-c4946663a537\",\"stereoId\":\"fa6f78fe-f7fd-459b-8bc1-c370e53d9bd3\",\"instrumentalId\":\"8955ec7d-7302-4f04-be39-25875931e68f\",\"title\":\"freebird\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":293.648}}",
             "ld": "https://cdn2.unrealengine.com/freebird-3579b6341445.lad",
             "jc": "0698-9528-1737",
-            "sn": "throughthefireandflames",
+            "sn": "freebird",
             "mk": "G"
         },
         "_noIndex": false,
@@ -22374,7 +22395,7 @@
             "dn": 172,
             "isrc": "USAT22409184",
             "sib": "Bass",
-            "an": "ROS\u00c9, Bruno Mars",
+            "an": "ROSÉ, Bruno Mars",
             "sid": "Drum",
             "sig": "Guitar",
             "ar": "T",
@@ -22526,7 +22547,7 @@
     "bondedobrunao": {
         "_title": "bondedobrunao",
         "track": {
-            "tt": "Bonde Do Brun\u00e3o",
+            "tt": "Bonde Do Brunão",
             "mm": "Minor",
             "siv": "Vocals",
             "su": "57ac2371-175e-4603-a14f-3c241b78ac40",
@@ -26216,7 +26237,7 @@
             "mu": "https://cdn2.unrealengine.com/tvvzmo4rgthlinpz-b3c8916c2bf2.dat",
             "dn": 179,
             "sib": "Bass",
-            "an": "LISA ft. ROSAL\u00cdA",
+            "an": "LISA ft. ROSALÍA",
             "sid": "Drum",
             "sig": "Keyboard",
             "ar": "E",
@@ -26696,7 +26717,7 @@
             "dn": 238,
             "isrc": "USAT22307579",
             "sib": "Bass",
-            "an": "The Mar\u00edas",
+            "an": "The Marías",
             "sid": "Drum",
             "sig": "Guitar",
             "ar": "E",
@@ -26760,7 +26781,7 @@
     "snowmix": {
         "_title": "snowmix",
         "track": {
-            "tt": "SnowMix\u266a",
+            "tt": "SnowMix♪",
             "mm": "Major",
             "siv": "Vocals",
             "su": "8137197f-44db-4ad7-bf4b-b7a55f2821e5",
@@ -27093,7 +27114,7 @@
             "sid": "Drum",
             "sig": "Keyboard",
             "ar": "T",
-            "au": "https://cdn2.unrealengine.com/t701d8ogyx1z87yx-2000x2000-81907ee9d0c5.jpg",
+            "au": "https://cdn2.unrealengine.com/t701d8ogyx1z87yx-512x512-24421eaab3a5.jpg",
             "ti": "SparksSong:sid_placeholder_726",
             "qi": "{\"sid\":\"efd84741-27b3-4627-9af0-e5e8c5b20d58\",\"pid\":\"0e54d19d-e638-49c8-a1c8-78623cb3988d\",\"stereoId\":\"53aff2b0-f1ec-41d9-bd91-3dfff5c9cd78\",\"instrumentalId\":\"b5eec691-29c4-4f82-9837-bf5a13e03851\",\"title\":\"illegal\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":30.5621}}",
             "ld": "https://cdn2.unrealengine.com/illegal-8a951fbb2708.lad",
@@ -27103,7 +27124,95 @@
         },
         "_noIndex": false,
         "_activeDate": "2025-12-02T18:01:17.063Z",
-        "lastModified": "2025-12-30T15:25:00.638Z",
+        "lastModified": "2026-01-05T14:16:07.896Z",
+        "_locale": "en-US",
+        "_templateName": "track"
+    },
+    "nobrokeboys": {
+        "_title": "nobrokeboys",
+        "track": {
+            "tt": "No Broke Boys",
+            "mm": "Major",
+            "siv": "Vocals",
+            "su": "a425e8a0-13af-4c67-abad-c6cd302d695a",
+            "in": {
+                "bd": 3,
+                "pb": 2,
+                "pd": 3,
+                "vl": 3,
+                "pg": 2,
+                "_type": "SparkTrackIntensities",
+                "gr": 2,
+                "ds": 3,
+                "ba": 2
+            },
+            "ry": 2025,
+            "nu": "2026-01-10T00:00:00.000Z",
+            "mt": 131,
+            "_type": "SparkTrack",
+            "mu": "https://cdn2.unrealengine.com/6vucc135wmkdvkm7-e22a7e8b1bd6.dat",
+            "dn": 168,
+            "isrc": "USAT22504362",
+            "sib": "Bass",
+            "an": "Disco Lines & Tinashe",
+            "sid": "Drum",
+            "sig": "Keyboard",
+            "ar": "T",
+            "au": "https://cdn2.unrealengine.com/99308t5ujtgu7eyc-512x512-a519aff477fd.jpg",
+            "ti": "SparksSong:sid_placeholder_729",
+            "qi": "{\"sid\":\"969eb977-c372-4ef6-b3b3-5770087310f0\",\"pid\":\"377bea03-b6b4-44ad-baac-1217ca7a7967\",\"stereoId\":\"ed30b249-cf40-44eb-b22a-e322568c67c1\",\"instrumentalId\":\"36e9aa48-06a0-4d30-b7c2-6dbaba38e031\",\"title\":\"nobrokeboys\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":49.4656}}",
+            "ld": "https://cdn2.unrealengine.com/nobrokeboys-f0873ea4f122.lad",
+            "jc": "0359-9955-2815",
+            "sn": "nobrokeboys",
+            "mk": "B"
+        },
+        "_noIndex": false,
+        "_activeDate": "2025-12-10T16:32:18.354Z",
+        "lastModified": "2026-01-06T15:06:27.255Z",
+        "_locale": "en-US",
+        "_templateName": "track"
+    },
+    "irisout": {
+        "_title": "irisout",
+        "track": {
+            "tt": "Iris Out",
+            "mm": "Minor",
+            "siv": "Vocals",
+            "su": "988c8f5d-aec7-4e18-b683-4c48ede2cb16",
+            "in": {
+                "bd": 5,
+                "pb": 4,
+                "pd": 3,
+                "vl": 5,
+                "pg": 6,
+                "_type": "SparkTrackIntensities",
+                "gr": 6,
+                "ds": 3,
+                "ba": 4
+            },
+            "ry": 2025,
+            "nu": "2026-01-10T00:00:00.000Z",
+            "mt": 135,
+            "_type": "SparkTrack",
+            "mu": "https://cdn2.unrealengine.com/rvzkzsnsntj7jdoo-266460b55d42.dat",
+            "dn": 152,
+            "isrc": "JPU902502821",
+            "sib": "Bass",
+            "an": "Kenshi Yonezu",
+            "sid": "Drum",
+            "sig": "Keyboard",
+            "ar": "T",
+            "au": "https://cdn2.unrealengine.com/fsr4viodsw5hu9he-512x512-9b894d4ad9c0.jpg",
+            "ti": "SparksSong:sid_placeholder_730",
+            "qi": "{\"sid\":\"354b6b34-8609-4c2b-ab65-f669b43eaa17\",\"pid\":\"ad0c49fd-d6b0-407a-8838-5c5ef514d4ce\",\"stereoId\":\"72ca23b7-23b7-4da1-86bf-a88ccf5694a1\",\"instrumentalId\":\"da1f3e3f-3768-44df-b7cc-4af0ee2a7513\",\"title\":\"irisout\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":49.3333}}",
+            "ld": "https://cdn2.unrealengine.com/irisout-4b864377303a.lad",
+            "jc": "8057-6341-9405",
+            "sn": "throughthefireandflames",
+            "mk": "A"
+        },
+        "_noIndex": false,
+        "_activeDate": "2025-12-10T16:32:53.878Z",
+        "lastModified": "2026-01-06T16:40:55.318Z",
         "_locale": "en-US",
         "_templateName": "track"
     },
