@@ -27204,7 +27204,7 @@
             "ar": "T",
             "au": "https://cdn2.unrealengine.com/fsr4viodsw5hu9he-512x512-9b894d4ad9c0.jpg",
             "ti": "SparksSong:sid_placeholder_730",
-            "qi": "{\"sid\":\"354b6b34-8609-4c2b-ab65-f669b43eaa17\",\"pid\":\"ad0c49fd-d6b0-407a-8838-5c5ef514d4ce\",\"stereoId\":\"72ca23b7-23b7-4da1-86bf-a88ccf5694a1\",\"instrumentalId\":\"da1f3e3f-3768-44df-b7cc-4af0ee2a7513\",\"title\":\"irisout\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":49.3333}}",
+            "qi": "{\"sid\":\"https://github.com/josecarneironora-glitch/songtest/raw/refs/heads/main/vocals.ogg\",\"pid\":\"https://github.com/josecarneironora-glitch/songtest/raw/refs/heads/main/vocals.ogg\",\"stereoId\":\"https://github.com/josecarneironora-glitch/songtest/raw/refs/heads/main/vocals.ogg\",\"instrumentalId\":\"da1f3e3f-3768-44df-b7cc-4af0ee2a7513\",\"title\":\"irisout\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":49.3333}}",
             "ld": "https://cdn2.unrealengine.com/irisout-4b864377303a.lad",
             "jc": "8057-6341-9405",
             "sn": "showthemwhoweare",
